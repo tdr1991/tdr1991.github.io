@@ -2,7 +2,7 @@
 title: 通过github搭建个人博客
 date: 2018-06-07 15:23:34
 categories:
-- [jekyll/NexT]
+- jekyll/NexT
 tags:
 ---
 记录第一次搭建博客之过程
