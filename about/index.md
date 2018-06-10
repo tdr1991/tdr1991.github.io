@@ -1,6 +1,6 @@
 ---
 layout: page
-type: about
+title: 简历
 ---
 
-Building...
+[个人简历](/assets/pdf/个人简历.pdf)
