@@ -15,5 +15,7 @@ _posts/*.ipynb
 _posts/*.html
 _posts/*.pdf
 .vscode
-/*.ipynb_checkpoints
-/*.ipynb
+about/.ipynb_checkpoints
+about/*.ipynb
+about/*.html
+about/*.pdf

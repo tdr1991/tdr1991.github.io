@@ -7,7 +7,7 @@ title: 个人简历
 ## 基本信息
 
 汤达荣   
-Email：tdr1991@outlook.com &nbsp;&nbsp; GitHub：https://github.com/tdr1991 &nbsp;&nbsp; 主页：https://tdr1991.github.io
+Email：tdr1991@outlook.com &nbsp;&nbsp; GitHub：<https://github.com/tdr1991> &nbsp;&nbsp; 主页：<https://tdr1991.github.io>
 
 ## 教育背景
 
