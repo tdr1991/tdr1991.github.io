@@ -1,7 +1,7 @@
 ---
 layout: post
 title: python小技巧
-date: 2018-06-10 
+date: 2018-06-22
 categories: 
 - python
 tags: 
