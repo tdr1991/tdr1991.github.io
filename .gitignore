@@ -19,3 +19,6 @@ about/.ipynb_checkpoints
 about/*.ipynb
 about/*.html
 about/*.pdf
+about/cn-vitae.md
+about/information.md
+about/Resume.md
