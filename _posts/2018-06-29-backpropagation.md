@@ -11,6 +11,7 @@ tags:
 ---
 深度学习反向传播
 <!--more-->
+
 # 反向传播算法（backpropagation）
 此算法是一个有效计算梯度的方法，C表示损失函数，常见的是交叉熵
 $$L(\theta)=\sum_{n=1}^N C^n(\theta)$$

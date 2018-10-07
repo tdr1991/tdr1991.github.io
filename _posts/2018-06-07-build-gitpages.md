@@ -7,6 +7,7 @@ tags:
 ---
 记录第一次搭建博客之过程
 <!--more-->
+
 # 安装环境
 1.git  
 2.Ruby & gem & jekyll  
