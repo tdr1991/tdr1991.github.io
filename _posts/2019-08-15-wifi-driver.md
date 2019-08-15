@@ -21,7 +21,6 @@ tags:
 
 ## 开始安装
 - 解压
-
 ```bash
 tar xvf backports-5.2-rc7-1.tar.gz
 ```
@@ -57,5 +56,4 @@ reboot
 ```
 
 参考了(列个最重要的)
-
 <https://blog.csdn.net/tonyjiang08/article/details/38400633/>
