@@ -9,7 +9,7 @@ categories:
 tags:
 - 安装wifi驱动
 ---
-安装ubuntu
+安装ubuntuubuntu18系统的wifi驱动
 <!--more-->
 
 
