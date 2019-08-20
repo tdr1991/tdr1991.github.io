@@ -45,6 +45,7 @@ im-config -n fcitx
 # 官网下载 linux 版 sogoupinyin
 # 安装软件，使用 dpkg 安装deb
 ```
+如果还没出来搜狗拼音输入法，那么点击右上角的键盘图标，点击配置输入法，在输入法选项卡下面点击+号，去掉只显示当前语言的勾，把搜狗拼音添加进去，不出意外就能显示了。
 6. shell忽略大小写敏感
 ```bash
 sudo vi ~/.inputrc 

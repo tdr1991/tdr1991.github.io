@@ -36,7 +36,7 @@ make config-ath9k  #不确定
 ```
 这条命令运行完后可能提示没有linux-headers和build-essential,linux-headers我是之前安装了，在 [中国科技大学](http://mirrors.ustc.edu.cn/) 下载的linux-headers-4.15.0-55-generic_4.15.0-55.60_amd64.deb，具体哪个目录不记得了。但是这两个deb可以去 [dkpg](https://pkgs.org/) 下载，应该可以不用版本都一样，后面的小版本可以不一样。
 ```bash
-dkph -i linux-headers-4.15.0-55-generic_4.15.0-55.60_amd64.deb
+dkpg -i linux-headers-4.15.0-55-generic_4.15.0-55.60_amd64.deb
 dkpg -i build-essential_12.6_amd64.deb
 ```
 如果权限不够就加 sudo 然后输入密码，输过一次就不用再输了。
