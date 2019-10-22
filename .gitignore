@@ -18,7 +18,11 @@ _posts/*.pdf
 about/.ipynb_checkpoints
 about/*.ipynb
 about/*.html
+<<<<<<< Updated upstream
 about/*.pdf
 about/cn-vitae.md
 about/information.md
 about/Resume.md
+=======
+about/*.pdf
+>>>>>>> Stashed changes
